@@ -15,5 +15,8 @@
     "nodemon": "^2.0.15",
     "prettier": "^2.6.2",
     "ts-node-dev": "^1.1.8"
+  },
+  "dependencies": {
+    "edgedb": "^0.20.8"
   }
 }
