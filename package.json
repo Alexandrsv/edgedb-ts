@@ -1,0 +1,19 @@
+{
+  "name": "edge-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node-dev --respawn ./src/index.ts",
+    "dev2": "nodemon ./src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "prettier": "^2.6.2",
+    "ts-node-dev": "^1.1.8"
+  }
+}
